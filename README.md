@@ -1,6 +1,6 @@
 # Erasure coding enhancements
 
-Hi, we are looking at enhancing Ceph erasure coding with the objective of improving performance. Here is our design document describing what we are hoping to achieve. Feedback is welocme, either on Slack #ceph-devel (https://app.slack.com/client/T1HG3J90S/C1HFZTW81) or get in contact will bill_scales@uk.ibm.com
+Hi, we are looking at enhancing Ceph erasure coding with the objective of improving performance. Here is our design document describing what we are hoping to achieve. Feedback is welcome, either on Slack #ceph-devel (https://app.slack.com/client/T1HG3J90S/C1HFZTW81), raise an issue here on github or get in contact will bill_scales@uk.ibm.com
 
 ## Objectives
 
